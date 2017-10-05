@@ -65,4 +65,4 @@ function decipher(){
 ```
 Puedes ver el diagrama de flujo aquí: ![Diagrama de flujo](/CifradoCesar.jpeg)
 
-*Diclaimer: este ejercicio no pude completarlo :(*
+*Disclaimer: este ejercicio no pude completarlo :(*
